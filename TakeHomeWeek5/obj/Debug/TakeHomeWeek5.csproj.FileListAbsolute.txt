@@ -1,0 +1,11 @@
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\bin\Debug\TakeHomeWeek5.exe.config
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\bin\Debug\TakeHomeWeek5.exe
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\bin\Debug\TakeHomeWeek5.pdb
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\obj\Debug\TakeHomeWeek5.csproj.AssemblyReference.cache
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\obj\Debug\TakeHomeWeek5.csproj.SuggestedBindingRedirects.cache
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\obj\Debug\TakeHomeWeek5.Properties.Resources.resources
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\obj\Debug\TakeHomeWeek5.csproj.GenerateResource.cache
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\obj\Debug\TakeHomeWeek5.csproj.CoreCompileInputs.cache
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\obj\Debug\TakeHomeWeek5.exe
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\obj\Debug\TakeHomeWeek5.pdb
+D:\Project\jt\c_sharp\TakeHomeWeek5\TakeHomeWeek5\obj\Debug\TakeHomeWeek5.BlinkStore.resources
